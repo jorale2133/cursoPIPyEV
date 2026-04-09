@@ -3,7 +3,7 @@ Solo tiene el propositos educativos
 
 # Steps to run game project
 
-'''python
+```sh
 cd game
 python3 main.py
-'''
+```
